@@ -2,7 +2,7 @@
 
 **Best routes to become a professional PHP developer**
 
----
+***
 
 ### 📂 Repository Structure
 This repository is organized into three main folders, each representing a **different developer level**:
@@ -11,12 +11,12 @@ This repository is organized into three main folders, each representing a **diff
 - **[Mid-level](./Mid-level/README.md)**
 - **[Senior](./Senior/README.md)**
 
----
+***
 
 ### 💡 About
 This repository is designed to be useful for **every PHP programmer**, providing a clear and structured roadmap to grow from beginner to professional.
 
----
+***
 
 ### 🧑‍💻 Author
 [**Babak Chalacki**](https://github.com/Babak-Chalacki)
