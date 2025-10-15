@@ -1,6 +1,6 @@
-# Path to Becoming a Mid-Level PHP Developer 👨‍💻
+## Path to Becoming a Mid-Level PHP Developer 👨‍💻
 
 
 
-### The core of the PHP language:
+### Memory management:
 - [Day 1 : Zend Engine](./Zend-Engine/README.md)
